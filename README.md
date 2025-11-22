@@ -1,4 +1,5 @@
 Stock Master & Stock Dash
+
 A Complete Stock Market Tracking, Analytics & Portfolio Management Suite (Next.js)
 This repository contains two fully functional stock market applications, built using Next.js, React, Tailwind CSS, and real-time stock APIs.
 Together, they form a powerful toolkit for:
@@ -10,6 +11,7 @@ Investment insights
 Apps Included in This Repository
 
 1. Stock Master
+
 A clean, responsive stock search and portfolio management web app.
 Features
 Search real-time stock prices
@@ -21,6 +23,7 @@ Local portfolio storage
 Minimal and elegant UI
 
 2. Stock Dash
+
 A visual, dashboard-style stock analytics application.
 Features
 Dashboard layout
@@ -30,7 +33,8 @@ Summary cards
 Quick shortcuts
 Built for fast stock overview
 
-Tech Stack (Both Apps)
+3. Tech Stack (Both Apps)
+
 Technology	Usage
 Next.js 14+ (App Router)	Main application framework
 React	Component rendering
