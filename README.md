@@ -46,4 +46,5 @@ Website Image:
 <img width="1898" height="1107" alt="image" src="https://github.com/user-attachments/assets/2ef96c61-457b-42d1-a4b8-05539465cee4" />
 
 APP Image:
-![APP](https://github.com/user-attachments/assets/54b2cb08-82ad-4c85-b749-5d0fa60c50be)
+<img width="326" height="712" alt="image" src="https://github.com/user-attachments/assets/90a20eb6-c16d-4af0-82b1-ad888e72eb94" />
+
