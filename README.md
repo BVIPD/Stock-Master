@@ -41,3 +41,9 @@ This repository features two robust stock market applications, meticulously craf
 - **LocalStorage or API Backend:** For secure portfolio saving and state management.
 
 This collection represents a powerful solution for anyone interested in the stock market, offering both functionality and aesthetic appeal to enhance the user experience. Dive into stock tracking and analysis with these innovative applications!
+
+Website Image:
+<img width="1898" height="1107" alt="image" src="https://github.com/user-attachments/assets/2ef96c61-457b-42d1-a4b8-05539465cee4" />
+
+
+
