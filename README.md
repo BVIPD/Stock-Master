@@ -45,5 +45,5 @@ This collection represents a powerful solution for anyone interested in the stoc
 Website Image:
 <img width="1898" height="1107" alt="image" src="https://github.com/user-attachments/assets/2ef96c61-457b-42d1-a4b8-05539465cee4" />
 
-
-
+APP Image:
+![APP](https://github.com/user-attachments/assets/54b2cb08-82ad-4c85-b749-5d0fa60c50be)
